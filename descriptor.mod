@@ -8,3 +8,4 @@ dependencies={
 replace_path="localisation/replace"
 name="Korean Language(Waldo)"
 supported_version="1.12.14"
+remote_file_id="3184830009"

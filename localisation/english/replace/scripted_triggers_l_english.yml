@@ -1,7 +1,0 @@
-﻿l_english:
- is_controlled_by_ROOT_or_ally:0 "조종되어지다 §H[Root.GetNameDef]§! 또는 그들의 연합."
- is_league_of_nations_member_tt:0 "이건 국제 연맹의 가입국이야"
- has_war_with_non_exiled_country_tt:0 "전쟁하다 아닌 망명 국가"
- state_is_fully_controlled_by_ROOT_or_subject_tt:0 "이건 전체 조종되다 §Y[ROOT.GetFlag][ROOT.GetNameDef]§! 혹은 어느 §Y[ROOT.GetAdjective]의 인형§!"
- is_at_peace_exiled_countries_excluded_tt:0 "Is at peace (war with exiled countries excluded)"
- is_alpine_TT:0 "알파인의 주"

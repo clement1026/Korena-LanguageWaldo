@@ -1,0 +1,21 @@
+
+bitmapfonts = {
+
+	bitmapfont = {
+		name = "standard_font"
+		fontfiles = { 
+			"gfx/fonts/hoi_16mbs"
+		}
+		color = 0xffffffff
+		
+	}
+
+	bitmapfont = {
+		name = "chat_input_font"
+		fontfiles = { 
+			"gfx/fonts/hoi_16mbs"
+		}
+		color = 0xffffffff
+	}
+	
+}
