@@ -283,7 +283,7 @@
  BBA_ethiopia_exile_events.17.t:0 "[ROOT.GetLeader] Promises [FROM.GetLeader] Ships"
  BBA_ethiopia_exile_events.17.desc:0 "During a private meeting between [ROOT.GetLeader] and [FROM.GetLeader], [ROOT.GetLeader] promised that [ROOT.GetNameDef] would support [FROM.getNameDef] with ships. Careless words, perhaps, but still something the [ROOT.GetAdjective] Navy should honor."
  BBA_ethiopia_exile_events.17.a:0 "We can surely spare a few destroyers"
- ETH_destroyers_tt:0 "[ETH.GetName] receives 5 destroyers from [JAP.GetName]."
+ ETH_destroyers_tt:0 "[ETH.GetName]는 받는다 5개의 파괴자를 [JAP.GetName]로부터"
  BBA_ethiopia_exile_events.17.b:0 "Let's give them a cruiser with some escorts"
  ETH_cruiser_tt:0 "[ETH.GetName] receives a heavy cruiser and 3 destroyers from [JAP.GetName]."
  BBA_ethiopia_exile_events.17.c:0 "[FROM.GetLeader] needs an impressive flagship"

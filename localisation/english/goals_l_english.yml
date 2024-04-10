@@ -1,5 +1,5 @@
 ﻿l_english:
- rhineland:0 "Remilitarize the Rhineland"
+ rhineland:0 "라인착륙을 다시 무장하세요"
  rhineland_desc:0 "The Rhineland has been demilitarized since the end of the First World War, but this insult shall stand no longer! Germany is a sovereign nation and is free to move troops anywhere within her borders!"
  rhineland_short_desc:0 "§LMove German forces west of the Rhine in defiance of the Versailles Treaty.§!"
  rhineland_1:0 "Remilitarize Mosselland"
@@ -14,8 +14,8 @@
  take_state_focus:0 "Conquer (Focus)"
  take_state_focus_desc:0 "Take $STATE|Y$ from $TARGET|Y$."
  take_state_focus_short_desc:0 "This war goal will make selected states cheaper to pick at the peace conference."
- liberate_wargoal:0 "Liberate"
- liberate_wargoal_short_desc:0 "Liberate"
+ liberate_wargoal:0 "해방하세요"
+ liberate_wargoal_short_desc:0 "해방하세요"
  liberate_wargoal_desc:0 "This war goal will make liberation cheaper to pick in the peace conference."
  independence_wargoal:0 "Independence"
  independence_wargoal_short_desc:0 "War of Independence"
