@@ -76,7 +76,7 @@
  MAP_ICON_NAME:0 "($VAL$)"
  INSUFFICIENT_CONVOYS_THEY:0 "($WHO|H$ 가졌다 불충분한 수송선들 $ACTUAL$/$REQUIRED$)"
  INSUFFICIENT_CONVOYS_US:0 "(§HWe§! 가졌다 불충분한 수송선들)"
- NO_LEGAL_TRANSPORT_PATH:0 "(§R아니 불법적인 이동시키는 길§!)" #여기까지함
+ NO_LEGAL_TRANSPORT_PATH:0 "(§R아니 불법적인 이동시키는 길§!)" 
  TRADEVIEW_EXPORT_DETAILS:1 "Out of $TOT|H$ $RES|H$ @$TAG$$WHO|H$ 가졌다 $AVAILABLE|H$ left for export.\nCurrent exports:"
  TRADEVIEW_EXPORT_DETAILS_DEFICIT:0 "Out of $TOT|H$ $RES|H$ @$TAG$$WHO|H$ 가졌다 §H0§! left for export and a deficit of $AVAILABLE|H$ to fulfill all existing exports deals.\nCurrent exports:"
  TRADEVIEW_EXPORT_DETAILS_US:1 "Out of $TOT|H$ $RES|H$ §T§Hwe§! 가졌다 $AVAILABLE|H$ left for export.\nCurrent exports:§!"
