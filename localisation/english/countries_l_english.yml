@@ -4061,7 +4061,7 @@
  PAP_subject:1 "바티칸"
  PAP_subject_DEF:1 "바티칸 상태"
  PAP_autonomy_supervised_state:0 "$OVERLORDADJ$의 로마 점령지역"
- PAP_autonomy_supervised_state_DEF:0 "$OVERLORDADJ$ Rome 점령된 지역"
+ PAP_autonomy_supervised_state_DEF:0 "$OVERLORDADJ$ 롬 점령된 지역"
  PAP_fascism_ADJ:0 "교황"
  PAP_democratic_ADJ:0 "로마"
  PAP_communism_ADJ:0 "로마"
