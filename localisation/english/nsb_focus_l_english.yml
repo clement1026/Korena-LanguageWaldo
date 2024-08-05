@@ -1521,7 +1521,7 @@
  SOV_merge_aircraft_plants_tt:0 "Unlocks §YMerge Plant§! decisions for Aircraft Designers, allowing us to merge different plants into the active Aircraft Designer to improve its bonuses."
  SOV_merge_naval_plants_tt:0 "Unlocks §YMerge Plant§! decisions for Naval Designers, allowing us to merge different plants into the active Naval Designer to improve its bonuses."
  SOV_merge_tank_and_materiel_plants_tt:0 "Unlocks §YMerge Plant§! decisions for Tank and Materiel Designers, allowing us to merge different plants into the active Tank or Materiel Designer to improve its bonuses."
- SOV_trigger_first_moscow_trial_tt:0 "Gets event '§YFirst Moscow Trial§!'."
+ SOV_trigger_first_moscow_trial_tt:0 "'§Y첫째 주특기 소 재판§!' 행사를 얻는다."
  SOV_trigger_second_moscow_trial_tt:0 "Gets event '§YSecond Moscow Trial§!'."
  SOV_trigger_third_moscow_trial_tt:0 "Gets event '§YThird Moscow Trial§!'."
  SOV_behead_the_snake_lar_tt:0 "Unlocks operations to assassinate Trotsky. [GetAgencyRequirement]"

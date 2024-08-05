@@ -62,7 +62,7 @@
  ITA_pope_took_over_italy_flag:0 "담뱃대 경험합니다 사로잡힌 건너서 [ITA.GetFlag] §Y[ITA.GetNameDef]§!."
  form_roman_empire_flag:0 "[ITA.GetFlag] §Y[ITA.GetNameDefCap]§! 이 있다 짜냅니다 §Y가톨릭교의 제국§!."
  ITA_joined_faction_with_literally_hitler_achievement_flag:0 "[ITA.GetFlag] §Y[ITA.GetNameDefCap]§! 하지 않으면 안 됩니다 합쳐진 당파 을 지닌 파시스트 당원 §Y[GER.GetName]§! 로 어떤 것이라도 의도."
- AUS_annexed:0 "시키다 세웁니다 안 철수"
+ AUS_annexed:0 "가지고 달성했습니다 접속"
  field_promotion_achievement:0 "되다 쓰레기통 증진된 기원한 진군하다."
  you_get_a_canton_tt:0 "옛날에 다시 그러면 §Y24§! 화려함."
  swi_declared_war_on_GER_achievement_flag:0 "속이다 선언한 병법 작동하는 [GER.GetFlag] §Y[GER.GetNameDef]§!."

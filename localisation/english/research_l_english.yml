@@ -822,7 +822,7 @@
  trade_interdiction_tree:0 "Trade Interdiction Doctrines"
  decryption_tech_research:2 "Decryption Research Speed"
  encryption_tech_research:2 "Encryption Research Speed"
- suicide_craft:0 "Yokosuka MXY7 Ohka"
+ suicide_craft:0 "요코스카 MXY7 오카"
  suicide_craft_desc:0 "Rocket powered kamikaze craft"
  cv_suicide_craft:0 "$suicide_craft$ (Carrier)"
  cv_suicide_craft_desc:0 "$suicide_craft_desc$"
