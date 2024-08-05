@@ -1,5 +1,5 @@
 ﻿l_english:
- bba_news.0.t:0 "The End of the League of Nations"
+ bba_news.0.t:0 "국가 리그 종료"
  bba_news.0.desc:0 "With the declaration of war on [?global.LoN_defender_country.GetNameDef] by [?global.LoN_attacker_country.GetNameDef], the League of Nations has failed in its attempts to preserve peace. [?global.LoN_attacker_country.GetLeader] openly mocked the League's inability to do anything, and with that took [?global.LoN_attacker_country.GetHerHis] country out of the League. With other world leaders also questioning the point of the League of Nations if it can't prevent conflicts, the days of the League are de facto over. \nWhile the council continues to meet, no-one expects it to actually accomplish anything anymore. Whatever authority the council once had is long lost now."
  bba_news.0.a:0 "Not totally unexpected"
  BBA_italo_ethiopian_war_events.01.t:0 "End the Christmas Offensive"
