@@ -420,7 +420,7 @@
  AIR_SUPPLY_CHUNK_DESC:0 "This chunk is supported via §YAir Supply§!.\nSupplies dropped: $VAL|+=$"
  WING_AIR_SUPPLY_CAPABILITY:0 "Air supply capability: $VAL|+=$"
  SUPPLY_SUPPORTED_LOCAL_MODIFIERS:0 "Area modifiers: $MOD|=%+1$"
- SUPPLY_SUPPORTED_INFRA:0 "§YInfrastructure§!: $VAL|+=$"
+ SUPPLY_SUPPORTED_INFRA:0 "$VAL|+=$ §Y기반구조물§!: "
  SUPPLY_PENALTY_VALUE:0 "§R($PERC|%0$ of $VAL|Y$ due to split ownership)§!"
  SUPPLY_INFO:1 "§YRequired§!: $REQ$\n  §YArmy§!: $REQ_ARMY$ ( Our: $REQ_OUR_ARMY|Y$, Allied: $REQ_ALLIED_ARMY|Y$ )\n  §YNavy§!: $REQ_NAVY$\n  §YAir§!: $REQ_AIR$\n\n§YSupported§!: $SUP$"
  SUPPLY_INFO_FOREIGN:0 "§YSupported§!: $SUP$"

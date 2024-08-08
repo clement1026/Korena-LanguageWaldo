@@ -76,7 +76,7 @@
  GRE_debt_0:0 "§Y0%§!"
  GRE_no_debt_paid:0 "§YNo debt has been paid§!."
  GRE_small_installment_payment_ENG:0 "Small Debt Repayment to the [FROM.GetAdjective]"
- GRE_small_installment_payment_FRA:0 "Small Debt Repayment Payment to the [FROM.GetAdjective]"
+ GRE_small_installment_payment_FRA:0 "[FROM.GetAdjective]에 소규모 빚 재결제 결제"
  GRE_small_installment_payment_ITA:0 "Small Debt Repayment Payment to the [FROM.GetAdjective]s"
  GRE_small_payment_to_british_debt_effect_tt:0 "This decision will clear one quarter of our current §Ydebt§! with §Y[ENG.GetNameDef]§! each time it is completed.\n"
  GRE_small_payment_to_french_debt_effect_tt:0 "This decision will clear one quarter of our current §Ydebt§! with §Y[FRA.GetNameDef]§! each time it is completed.\n"

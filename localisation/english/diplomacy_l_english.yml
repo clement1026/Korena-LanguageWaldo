@@ -1080,7 +1080,7 @@
  TRUCE_BREAK_WARNING_JOIN:0 "§RWARNING! Joining our ally will cost us £pol_power $COST|Y0$ due to truces§!"
  TRUCE_BREAK_WARNING_CALL:0 "§RWARNING! Accepting this Call to arms will cost us £pol_power $COST|Y0$ due to truces§!"
  THREAT_CAPITULATE:1 "$LOSER|U$ capitulated to $WINNER$"
- AST_the_swpa_menace_boycot_JAP:0 "The SWPA Menace"
+ AST_the_swpa_menace_boycot_JAP:0 "남서태평양 위협"
  CAN_supply_the_red_army_trade:0 "Supply the Red Army"
  CAN_patriation_mod:0 "Demanded Patriation"
  SAF_anti_colonialist_crusaders:0 "Anti-Colonialist Crusaders"

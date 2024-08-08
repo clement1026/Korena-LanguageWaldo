@@ -947,7 +947,7 @@
  ITA_negotiate_italian_claims_desc:1 "Our opposition to Germany has put us in a position of power over the former Entente nations, who are desperately seeking a break between the Italian and German regimes. We must exploit this situation to our advantage and reclaim the colonial possessions that were denied us after the Great War."
  ITA_peace_with_ethiopia_tt:1 "After the Peace Talks with §Y[ETH.GetNameWithFlag]§!:"
  ITA_ENG_must_control_necessary_states_tt:0 "§Y[ENG.GetNameWithFlag]§! Does not control the historical British colonies in Horn of Africa and Malta."
- ITA_FRA_must_control_necessary_states_tt:0 "§Y[FRA.GetNameWithFlag]§! Does not control the historical French colonies in Djibouti and Tunisia."
+ ITA_FRA_must_control_necessary_states_tt:0 "§Y[FRA.GetNameWithFlag]§!는 디부티와 투니시아에 있는 역사적 프랑스인 거주지를 통제하고 있지 않음."
  ITA_ratify_the_stresa_front:0 "Ratify the Stresa Front"
  ITA_ratify_the_stresa_front_desc:1 "Territorial concessions have now been granted to Italy, so it is time to start the process that will bring Italy and France into the military alliance called the Stresa Front."
  ITA_joint_military_programs:0 "Joint Military Programs"
