@@ -1933,7 +1933,7 @@
  SWI_buy_foreign_surplus_ships_desc:0 "One country's surplus is another one's navy. Many of the great naval powers of the world now have fleets full of brand new ships, which means that old ships are almost obsolete and yet cost them to maintain. If we want to quickly build up naval power there's no better way than to buy any unwanted ships from them."
  SWI_swiss_ship_designs:0 "Swiss Ship Designs"
  SWI_swiss_ship_designs_desc:0 "We might not have much experience in the design and manufacture of seaworthy vessels of war, but the sooner we start the sooner we can stand our own among old and great naval powers such as [ENG.GetNameDef] and [ITA.GetName]."
- SWI_submarine_raiders:0 "Submarine Raiders"
+ SWI_submarine_raiders:0 "해병샌드위치 레이더"
  SWI_submarine_raiders_desc:0 "Let the old naval powers have their hulking piles of steel. While they fight with brute force on the seas we will fight with cunning under the surface with our submarines, chipping away at their old and decrepit naval power."
  SWI_floating_fortresses:0 "Floating Fortresses"
  SWI_floating_fortresses_desc:0 "We know how to make fortresses to defend our mountains and valleys, now that we have a coast, it is of the utmost importance that we extend this into the seas. Our vessels will be indestructible."
