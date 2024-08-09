@@ -249,7 +249,7 @@
  JUNO_promote_immigration_ongoing: "Currently promoting immigration"
  JUNO_immigration_promoted: "Promoted Immigration to State"
  JUNO_ITA_immigration_completed: "Already promoted immigration from [ITA.GetFlag]§Y[ITA.GetName]§!"
- JUNO_JAP_immigration_completed: "Already promoted immigration from [JAP.GetFlag]§Y[JAP.GetName]§!"
+ JUNO_JAP_immigration_completed: "충성의 시험 DLC를 누가 번역하노 그냥 JUNO는 없는 DLC라 생각한다"
  JUNO_POR_immigration_completed: "Already promoted immigration from [POR.GetFlag]§Y[POR.GetName]§!"
  JUNO_GER_immigration_completed: "Already promoted immigration from [GER.GetFlag]§Y[GER.GetName]§!"
  JUNO_SPR_immigration_completed: "Already promoted immigration from [SPR.GetFlag]§Y[SPR.GetName]§!"

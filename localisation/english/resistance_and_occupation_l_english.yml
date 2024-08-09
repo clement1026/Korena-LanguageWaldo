@@ -43,7 +43,7 @@
  OCCUPATION_POLICY_SUPRESSED_STATE_MODIFIER:0 "State Modifier When Resistance is Supressed:"
  OCCUPATION_POLICY_COMPARED_TO_LAW:0 " (Compared to $NAME|H$)"
  OCCUPATION_POLICY_HOLD_CONTROL_TO_SHOW_DELTAS:0 "Hold §GControl§! to show comparison to current law"
- COUNTRY_OCCUPATION_TITLE:0 "Occupied Territories"
+ COUNTRY_OCCUPATION_TITLE:0 "점령된 영토"
  OCCUPATION_MODIFIER_ACTIVE:0 "Modifier is currently active. It will be disabled when $TYPE|H$ goes below $TO_DISABLE|%0H$"
  OCCUPATION_MODIFIER_ACTIVE_WITH_TRIGGER:0 "Modifier is currently active. It will be disabled when $TYPE|H$ goes below $TO_DISABLE|%0H$ or following conditions are not satisfied:"
  OCCUPATION_MODIFIER_NOT_ACTIVE:0 "Modifier is currently §RNOT§! active. It will be enabled when $TYPE|H$ goes above $TO_ENABLE|%0H$"

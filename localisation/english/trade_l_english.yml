@@ -153,7 +153,7 @@
  TRADE_FACTOR_ANTI_MONOPOLY:0 "On per-resource average, we're importing over $THRESHOLD|%0H$ of their export: $VAL|0H$"
  TRADE_FACTOR_OPERATIVE_MISSION:0 "From £operative_mission_icons_small|6£ Control Trade: $VALUE|0H$"
  TRADED_NATIONS:0 "Trade Partners"
- TRADE_CIV_FACTORIES:0 "Civilian Factories"
+ TRADE_CIV_FACTORIES:0 "민간인 공장들"
  TRADE_CIV_FACTORIES_COUNT:0 "$NUM|G$"
  TRADE_CIV_FACTORIES_USED:0 "Used: $USED|Y$"
  TRADE_CIV_FACTORIES_AVAIL:0 "Available: $AVAIL$"

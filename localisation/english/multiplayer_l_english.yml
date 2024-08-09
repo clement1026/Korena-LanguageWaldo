@@ -1,7 +1,7 @@
 ﻿l_english:
- MULTIPLAYER_LOBBY:0 "Multiplayer Lobby"
- START:0 "Start"
- ABANDON_GAME:0 "Abandon Game"
+ MULTIPLAYER_LOBBY:0 "여럿이 노는 로비"
+ START:0 "시작하다"
+ ABANDON_GAME:0 "버려라 게임"
  SERVER_IS_UP:0 "§GServer is up.§!"
  SYSTEM_PLAYER_LEFT:0 "§G§Y$NAME$§! left the game.§!"
  SYSTEM_PLAYER_LOST:0 "§G§Y$NAME$§! lost the connection.§!"
