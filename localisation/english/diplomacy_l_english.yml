@@ -708,7 +708,7 @@
  holds_our_claims:0 "They hold our claimed provinces"
  claims_on_us:0 "They have claimed our territory!"
  at_war_with_faction:0 "At war with our faction members"
- NO_NATIONAL_FOCUS:0 "No National Focus set"
+ NO_NATIONAL_FOCUS:0 "국가소유의 집중을 놓지마"
  UNKNOWN_INFO:0 "Unknown Focus"
  INTEL_IS_TOO_LOW_LOW:1 "Our intel is too low to get information about their current national focus progress."
  INTEL_IS_TOO_LOW:1 "Our intel is too low to get information about what they have already achieved in their national focus tree."

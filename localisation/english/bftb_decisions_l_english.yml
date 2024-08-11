@@ -138,7 +138,7 @@
  GRE_communists_manpower_status_amount:0 "[ROOT.GetCommunistManpowerBonus]"
  GRE_fascists_manpower_status_amount:0 "[ROOT.GetFascistManpowerBonus]"
  GRE_ATTITUDE_TOOLTIP:0 "§YAttitude§! represents the faction's desire to cooperate with the government. \n§GFriendly§! and §GLoyal§! factions will grant stability and manpower bonuses. \n§RHostile§! factions will reduce stability.\nIndifferent and §gInconsequential§! factions will not provide any bonuses or penalties."
- GRE_STABILITY_TOOLTIP:0 "Stability bonus"
+ GRE_STABILITY_TOOLTIP:0 "안전성 암내전국해병연맹"
  GRE_MANPOWER_TOOLTIP:0 "Manpower bonus"
  GRE_faction_loyal_stability:0 "§G+10%§!"
  GRE_faction_friendly_stability:0 "§G+5%§!"
