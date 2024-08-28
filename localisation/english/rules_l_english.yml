@@ -1,6 +1,6 @@
 ﻿l_english:
- CAN_CREATE_COLLABORATION_GOVERNMENT:0 "Can create collaboration governments"
- CAN_DECLARE_WAR_WITHOUT_WARGOAL_WHEN_IN_WAR:2 "Can declare war on a neighbor without a wargoal when at war with a major"
+ CAN_CREATE_COLLABORATION_GOVERNMENT:0 "깡통은 공동 작업 정부들을 만든다"
+ CAN_DECLARE_WAR_WITHOUT_WARGOAL_WHEN_IN_WAR:2 "깡통은 전공과목과 전쟁할때 전쟁결승점 없이 이웃에게 전쟁을 배당공고할 수 있습니다. "
  CAN_DECLARE_WAR_ON_SAME_IDEOLOGY:1 "Can declare war on country with the same ideology group without a war goal"
  CAN_FORCE_GOVERNMENT:1 "Can force government of another country to adopt the same ideology"
  CAN_GUARANTEE_OTHER_IDEOLOGIES:1 "Can guarantee other ideologies"
