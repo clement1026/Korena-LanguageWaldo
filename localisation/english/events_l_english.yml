@@ -22,7 +22,7 @@
  germany.13.t:0 "모스코우의 조약 다시젝트 "
  germany.13.d:1 "[SOV.GetNameDefCap] has refused to sign our non-aggression pact! This complicates matters, since we cannot deal decisively with Poland or France without the risk of the Bolsheviks getting themselves involved."
  germany.13.a:0 "그들을 저주하세요!"
- germany.14.t:0 "폴란드의 결혼상대 훈련"
+ germany.14.t:0 "문제 해결 지향 언어 토지의 결혼상대 훈련"
  germany.14.d:1 "Poland is ours, but the eastern parts fall under the [SOU.GetAdjective] sphere of influence according to the stipulations of the Molotov-Ribbentrop Pact. Should we withdraw our forces and let the [SOU.GetAdjective]s occupy this territory? Failure to do so would render our treaty void."
  germany.14.a:0 "Yes. Treaty stipulations must be obeyed."
  germany.14.b:0 "No! All of Poland belongs to the Vaterland!"
