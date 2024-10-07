@@ -255,7 +255,7 @@
  ETH_rally_around_the_emperor_desc:0 "His majesty [ETH.GetLeader] is the linchpin that holds our diverse empire together. In this time of crisis, we must put aside our petty grievances and rally behind his majesty, as the very survival of [ETH.GetName] and its people are at stake."
  ETH_rally_around_the_emperor_tt:0 "Unlocks decisions to set a possible §YHost Country§! for an Ethiopian §YGovernment in Exile§!."
  ETH_support_spain_static_modifier:0 "Support Spain"
- ETH_boarding_the_train:0 "Boarding the Train"
+ ETH_boarding_the_train:0 "훈련 위에 탑승"
  ETH_boarding_the_train_desc:0 "Our lines of defense are beginning to buckle and unless something drastic changes, [ETH.GetName] will cease to exist. Whilst many of his advisors argue the ill effects of an absent throne, his Majesty [ETH.GetLeader] has decided to head to Geneva with the goal of rallying international support for our cause at the League of Nations."
  ETH_boarding_the_train_tt:0 "§Y$ETH_haile_selassie$§! leaves [ROOT.GetName] to go to the League of Nations. If Ethiopia surrenders, $ETH_haile_selassie$ will form a §YGovernment in Exile§!."
  ETH_has_host_nation_tt:0 "A potential §YHost Country§! for a Government in Exile has been set\n"

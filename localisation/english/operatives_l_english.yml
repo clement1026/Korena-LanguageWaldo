@@ -28,7 +28,7 @@
  branch_operation:0 "Operations"
  branch_operative:0 "Operative Training"
  branch_crypto:0 "Cryptology Department"
- upgrade_economy_civilian:0 "Economy/civilian"
+ upgrade_economy_civilian:0 "경제/민간"
  upgrade_economy_civilian_desc:0 "§LOur agents will be trained to assume the role of civilians in enemy territory and operate within their industrial and civil sectors; gathering intelligence on our enemy's industry and economy.§!"
  upgrade_army_department:0 "Army Department"
  upgrade_army_department_desc:0 "§LIntel of enemy military is of paramount importance and it is necessary to establish a department of military intelligence. Our operatives will be trained to infiltrate enemy arms, serving as soldiers and generals and reporting to us the secrets they find behind enemy lines.§!"
