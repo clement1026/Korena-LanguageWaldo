@@ -1,7 +1,7 @@
 ﻿l_english:
- operation_boost_resistance:0 "Strengthen Resistance"
- operation_boost_resistance_desc:0 "§LPartisans in enemy-occupied territory are desperate for support to continue the fight. They are tying down significant amounts of enemy troops, and would be a very effective investment.§!"
- operation_capture_cipher:0 "Capture Cipher"
+ operation_boost_resistance:0 "강화하다 저항"
+ operation_boost_resistance_desc:0 "§L적들이 점령한 영토 인듐 빨치산은 지지를 자포자기한 계속하다 싸우다. 그들은 아래로 맨다 중요한 양의 적들의 병력, 그리고 매우 효과적인 투자.§!"
+ operation_capture_cipher:0 "암호를 포로로 잡아라"
  operation_capture_cipher_desc:0 "§LCapturing an enemy codebook, or acquiring it by other means, would give our codebreakers a decisive advantage in their efforts.§!"
  infiltration_paradrop:0 "Infiltration via Parachute"
  infiltration_paradrop_desc:0 "Agents will be dropped into the area via parachute. Flying low and at night will avoid any interference from enemy fighters."

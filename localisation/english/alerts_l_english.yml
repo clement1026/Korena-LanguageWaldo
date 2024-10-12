@@ -33,7 +33,7 @@
  alert_non_payed_license_delayed:0 "There are countries not lending civilian factories for licensed production:\n$LIST$§GRight-click to dismiss§!"
  alert_decision_new_instant:0 "§HDecisions Available§!"
  alert_decision_new_delayed:0 "Next decisions are ready to be taken:\n$LIST$§GRight-click to dismiss§!"
- alert_decision_new_delayed_more:0 "...and $COUNT|H$ more."
+ alert_decision_new_delayed_more:0 "...그리고 $COUNT|H$ 남았다."
  alert_decision_timeout_instant:0 "§HEvents or Decisions Timeout§!"
  alert_decision_timeout_delayed:1 "These events or decisions are about to time out:\n$LIST$§GRight-click to dismiss§!"
  alert_bop_timeout_delayed:0 "These Balance of Power events or decisions are about to time out:\n$LIST$§GRight-click to dismiss§!"
