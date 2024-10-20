@@ -419,3 +419,4 @@
  spitfireMkIXC: "Spitfire MkIXc"
  spitfireMk21: "Spitfire Mk21"
  spitefulXIV: "Spiteful MKXIV"
+ EQUIPMENT_DESIGNER_DYNAMIC_VERSION_CHECKBOX_BUTTON_DESC: "§HDisplay Dynamic Version Numbering§!\nWhen checked this variant will display dynamic version numbering beside its name."

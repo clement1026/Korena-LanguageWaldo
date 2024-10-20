@@ -1099,7 +1099,7 @@
  NOR_invite_german_engineers_desc: "[NOR.GetName] has never been an industrial powerhouse, our predecessors focused more on trading than producing our own products. That is why we need [GetNorwegianFascistOverlord]'s help to secure the knowledge needed to catch up to our allies, and more importantly, our enemies."
  NOR_the_kings_abdication: "The King's Abdication"
  NOR_the_kings_abdication_desc: "The king and his Chamberlain, upon realizing the daunting power of our invaders, have nothing left to give to their people, or take from them. King Haakon VII, in a rare public appearance has announced that every [NOR.GetAdjective] citizen should bow down to the fascist that swarm our lands."
- NOR_reviving_the_norgesveldet: "Reviving The Norgesveldet"
+ NOR_reviving_the_norgesveldet: "Reviving Norgesveldet"
  NOR_reviving_the_norgesveldet_desc: "Our ancestors were feared by all, raiding and conquering everywhere they could see and sail to. We must look back to the past and bring that spirit back. We could be the new viking threat that keeps children up at night."
  NOR_old_vinland: "Old Vinland"
  NOR_old_vinland_desc: "Old Norse explorers kept pushing themselves further west than anyone else, until they finally reached the bountiful lands of Vinland, or what they call now Newfoundland and Labrador. Let us once more trek west and conquer what should've remained ours in the first place."
@@ -2188,3 +2188,4 @@
  DEN_advanced_flight_modifier_tt: "$DEN_modify_flyvevabnet_dynamic_modifier$: \n$MODIFIER_AIR_MISSION_EFFICIENCY$: §G+5.0%§! \n$MODIFIER_AIR_NIGHT_PENALTY$: §G-5.00%§! \n$MODIFIER_AIR_WEATHER_PENALTY$: §G-5.00%§!\n\n"
  DEN_undermine_overlord_continuous_focus: "Undermine Overlord Influence"
  DEN_undermine_overlord_continuous_focus_desc: "We must do what we can to resist and undermine our Overlords to ensure Danish sovereignty."
+ NOR_required_prep_fascist_TT: "§YTotal Support for a Fascist Coup§! is higher than $RIGHT|0Y$ (Current support: $LEFT|0Y$)"

@@ -626,7 +626,7 @@
  ETH_the_italian_language_desc:0 "Language remains one the largest barriers to deeper cooperation with the [ITA.GetAdjective]s. We shall therefore adopt [ITA.GetAdjective] as a second language across our administration, including the military. Hopefully this will accelerate cultural exchange between us and make strategic planning more efficient."
  ETH_compensation:0 "Compensation"
  ETH_compensation_desc:0 "Despite the initial tension between our great nations, we have proven our loyalty to [ITA.GetName] time and again. This has done little to endear our population to our administration however. Perhaps the [ITA.GetAdjective]s would be willing to compensate us with control over some of their other lands so that we may bolster support for our regime."
- ETH_negusa_nagast:0 "Negusa Nagast"
+ ETH_negusa_nagast:0 "느구서 나가스트"
  ETH_negusa_nagast_desc:0 "The time has come to rid [ETH.GetName] of [ITA.GetAdjective] influence by declaring our independence. We will soon be the masters of our own fate once again thanks to the leadership of [ETH.GetLeader]."
  ETH_negusa_nagast_tt:0 "§Y[ROOT.GetNameWithFlag]§! declares independence"
  ETH_the_italo-ethiopian_empire:0 "The Italo-[ETH.GetAdjective] Empire"

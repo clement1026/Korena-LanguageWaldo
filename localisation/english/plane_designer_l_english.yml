@@ -444,3 +444,4 @@
  aa_cannon_3:0 "Cannons II"
  aa_cannon_3_desc:0 "With A modern cannon firing a large shell at high velocity, we can bring down even the toughest aircraft."
  plane_modules_tech: "Plane Modules"
+ EQ_MOD_CAT_plane_special_module_defense_turret_x2_TITLE: "Defense Turrets x2"
