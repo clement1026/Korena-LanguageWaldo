@@ -76,6 +76,6 @@
  THEATRE_STRAT_AREA:0 "전략적인 구역: §Y$NAME$§!"
  THEATRE_UNIT:0 "극장 가졌다 §Y1§! 분할들"
  THEATRE_UNITS:0 "극장 가졌다 $N|Y$ 분할들s"
- THEATRE_GROUP_UNASSIGNED:0 "Unassigned"
+ THEATRE_GROUP_UNASSIGNED:0 "선임되지 아니한"
  CAN_ONLY_HAVE_ONE_INVASION_PER_PORT:0 "§R깡통 오직 생성한다 하나의 침략 주문 받은 항구§!"
  MAX_UNITS_ON_THIS_ORDER:0 "Max Supplied Divisions: $VALUE|Y$"

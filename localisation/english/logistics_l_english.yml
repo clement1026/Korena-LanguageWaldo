@@ -1,5 +1,5 @@
 ﻿l_english:
- LOGISTICS_LOGISTICS_LABEL:0 "Logistics"
+ LOGISTICS_LOGISTICS_LABEL:0 "전략"
  LOGISTICS_EFFICIENCY_LABEL:0 "Average £prod_eff Production Efficiency"
  LOGISTICS_EFFICIENCY_SORT_BY:0 "Click to sort by £prod_eff Production Efficiency"
  LOGISTICS_EFFICIENCY_DESC:0 "Average £prod_eff  Production Efficiency of Factories producing each type of Equipment"
@@ -122,3 +122,4 @@
  LOGISTICS_NEED_OPERATION_REQUEST_HIGH_VALUE:1 "On average, $NEED|^0Y$ units per day are needed for operations"
  LOGISTICS_VIEWING_WHICH_COUNTRY:0 "Currently viewing logistics for $COUNTRY|H$."
  LOGISTICS_INSTOCK_BALANCED: "There is currently no surplus or deficit of $EQUIPMENT|H$ equipment.\n"
+ LOGISTICS_RESOURCES_PROJECT: "Special projects require $NEED|Y$ units of $RESOURCE|H$ for maximal output."

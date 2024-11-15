@@ -39,3 +39,4 @@
  suez_blocked_tt:0 "[GetSuezBlockText]"
  blocked_as_part_of_sanctions_tt:0 "§R제휴 때문에 민족 국가 제재 하기로 되어 있다 풍부한 장소, 면회를 거절합니다 [ROOT.GetName] 젊음 때문에 탄원하다 낙타.§!"
  SUEZ_SANCTIONS_FLAG:0 "수에즈 운하 막힌"
+ suez_blocked_tt_NOT:0 "[GetSuezBlockText]"

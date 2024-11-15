@@ -45,3 +45,5 @@
  ABILITY_ON_ADD:0 "작동하는 집행"
  ABILITY_ON_HOURLY:0 "작동하는 각자 시각"
  ABILITY_ON_DAILY:0 "작동하는 각자 낮"
+ ABILITY_QUININE: "Distribute Quinine"
+ ABILITY_QUININE_DESC: "Quinine and extra supplies are acquired for the troops."

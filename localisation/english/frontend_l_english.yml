@@ -217,3 +217,5 @@
  CHAT_ERROR_MUTEUNMUTE_SELF:0 "You cannot mute or unmute yourself!"
  CHAT_ERROR_CHAT_TIMEOUT_MESSAGE_SINGULAR:0 "You have been posting too frequently. Please wait for §Y1§! second before posting again."
  CHAT_ERROR_CHAT_TIMEOUT_MESSAGE_PLURAL:0 "You have been posting too frequently. Please wait for $TIME|Y$ seconds before posting again."
+ SM_CORNER_SCROLL: "Enable Corner Scrolling"
+ SILHOUETTE_PORTRAITS: "Use silhouette portraits"
