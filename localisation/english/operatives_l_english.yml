@@ -212,7 +212,7 @@
  PREPARED:0 "Prepared"
  DIPLOMATIC_PRESSURE_TENSION_MODIFIER:0 "£operative_mission_icons_small|7£ Diplomatic Pressure: $VALUE|=-%0$"
  OPERATION_TOKEN_RECEIVE:1 "Receive $TOKEN|H$ in $COUNTRY|H$"
- OPERATION_TOKEN_REMOVE:1 "Remove $TOKEN|H$ in $COUNTRY|H$"
+ OPERATION_TOKEN_REMOVE:1 "제거하다 $TOKEN|H$ 속에서 $COUNTRY|H$"
  OPERATION_VIEW_AUTO_COMPLETE:0 "If this box is checked, and all the requirements are met, the operation will launch §Yautomatically§!."
  OPERATION_VIEW_COLLECTING:2 "In preparation..."
  OPERATION_VIEW_PROGRESS:0 "In progress..."

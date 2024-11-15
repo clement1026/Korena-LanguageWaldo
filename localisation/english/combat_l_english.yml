@@ -394,3 +394,5 @@
  POSITIONING_CARRIER_RATIO_PENALTY:0 "More Enemy Carrier Airplanes: $NUM|+%$"
  COMBAT_LOG_FRIENDLY:0 "Friendly Forces"
  COMBAT_LOG_ENEMY:0 "Enemy Forces"
+ street_fighting: "Street Fighting"
+ TACTICS_ACTIVATION_REQUIREMENTS: "Activation requirements"

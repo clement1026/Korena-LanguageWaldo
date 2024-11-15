@@ -155,3 +155,6 @@
  group_mobile_combat_support_title:0 "Mobile Combat Support Battalions"
  group_armor_combat_support_title:0 "Armored Combat Support Battalions"
  DEPLOYMENT_VIEW_SPECIAL_FORCES_DETAILS: "$USED$/$CAP$"
+ DEPLOYMENT_RAIDS_DESC: "§YRaids§!\n§TSet priority for equipment going to preparation of Raids§!"
+ DEPLOYMENT_RAIDS_EMPTY:0 "§GNo current requests for raids.§!"
+ HAS_EXILE_TRANSFER_WITH_TEMPLATE: "§RCannot delete this Template because $AMOUNT|H$ Divisions escaping into exile are using it.§!"

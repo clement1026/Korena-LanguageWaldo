@@ -1,7 +1,7 @@
 ﻿l_english:
  south_american_news.1.t: "남미전쟁"
  south_american_news.1.d: "Stemming from disputes that have been happening in the regions of Napo Pastaza and Santiago Zamora on the border of Peru and Ecuador ever since the dissolution of the Gran Colombia, skirmishes have now started to occur between the two countries' forces. Due to the recent settlement in borders with Colombia, Peruvian soldiers have felt confident in pushing their claims against the weaker Ecuadorian State, and the skirmishes have now escalated into open conflict. This will test the stability of the region, as other countries may attempt to intervene."
- south_american_news.1.a: "그럼 이제 남미는 우예되는기고?"
+ south_american_news.1.a: "그럼 이제 남미는 어케됨?"
  south_american_news.1.b: "This will mark a new era for the Peruvian state!"
  south_american_news.1.c: "¡No pasarán!"
  south_american_events.1.t: "Terra holds national elections"
@@ -1221,3 +1221,7 @@
  south_american_events.62.t: "Battle of the River Plate"
  south_american_events.62.desc: "Around 06:18 Kriegsmarine and Royal Navy ships has engaged each other just outside Montevideo. Reports are that the German ships are heavily damaged and has taken shelter in the Uruguayan capitals port. British diplomats are pressing the Uruguayan government to force the ship out of port in accord with the Hague convention, where it can surely be destroyed by waiting Royal Navy forces."
  south_american_events.62.a: "Interesting"
+ south_american_news.20.t: "The Antilles United"
+ south_american_news.20.d: "The Antillean Confederation was the vehement idea of Ramón Emeterio Betances about the need for natives of the Caribbean to unite into a regional entity that would seek to preserve the sovereignty and well-being of the Antillean nations. Support was strongest from the 1850s up until the Spanish–American War, and had since then mostly faded. However after the unification of the region by [FROM.GetLeader], the idea is once again alive, and now, with the Antillean Confederation having been declared, it is more clear than ever that the Antilles is indeed for the Antilleans!"
+ south_american_news.20.a: "A Doomed Idea"
+ south_american_news.20.b: "Antilles for the Antilleans!"

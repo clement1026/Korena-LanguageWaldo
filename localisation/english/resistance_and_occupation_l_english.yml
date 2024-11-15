@@ -174,3 +174,4 @@
  OCCUPATION_STATE_OCCUPATION_INFO_NO_RESISTANCE:0 ""
  non_core_controller:0 "Non-Core Controller"
  non_core_controller_desc:0 "A State that is controlled by a non-core country"
+ secretaries_general: "Secretaries General"

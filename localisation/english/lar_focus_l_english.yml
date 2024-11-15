@@ -797,7 +797,7 @@
  FRA_utilize_the_leagues:0 "Utilize the Leagues"
  FRA_utilize_the_leagues_desc:0 "It is a sad fact that political violence has become commonplace in France. If the country is to survive the threat of communist revolution, we must not shy away from the help of people who can and will meet the communist thugs in the street if it comes to that."
  FRA_national_regeneration:0 "National Regeneration"
- FRA_national_regeneration_desc:0 "An excess of democracy and misguided republicanism have poisoned our country and divided our people. It will take a long time to heal these wounds, but at ast the first steps have been taken."
+ FRA_national_regeneration_desc:0 "An excess of democracy and misguided republicanism have poisoned our country and divided our people. It will take a long time to heal these wounds, but at last the first steps have been taken."
  FRA_national_regeneration_trigger_tt:0 "The combined total of Unaligned and Fascist support is over 50%"
  FRA_destroy_decadence:0 "Destroy Decadence"
  FRA_destroy_decadence_desc:1 "No country has ever been great if it allowed itself to debate even the tiniest issue for months. Some countries, secure behind oceans and supported by global empires, may believe that they can afford this luxury. We can not."
@@ -1280,3 +1280,4 @@
  SPA_embrace_pan_hispanism_desc: "In recent years, there has been a surge in Panhispanism throughout our old colonies, and now with our successful campaigns of reconquest, it is time to embrace their ideas, so that the Spanish Empire can stand for another thousand years!"
  SPA_embrace_pan_hispanism_tt: "We control every core state of §Y[CHL.GetName]§!, §Y[ARG.GetName]§!, §Y[ECU.GetName]§!, §Y[PRU.GetName]§!, §Y[URG.GetName]§!, §Y[PAR.GetName]§!, §Y[BOL.GetName]§!, §Y[COL.GetName]§!, §Y[VEN.GetName]§!, §Y[PAN.GetName]§!, §Y[COS.GetName]§!, §Y[NIC.GetName]§!, §Y[HON.GetName]§!, §Y[ELS.GetName]§!, §Y[GUA.GetName]§!, §Y[MEX.GetName]§!, §Y[DOM.GetName]§!, §Y[CUB.GetName]§! and §Y[PUE.GetName]§!."
  SPA_absorb_the_portuguese_empire_tt: "We will gain cores on any §YPortuguese§! cores we control"
+ FRA_disunite_germany_tt: "Renames the §YContinental System§! to §YConfédération du Rhin§!"

@@ -707,7 +707,7 @@
  BUL_nsm_media_banned_flag:0 "Has banned the distribution of £faction_bul_nsm §YNational Social Movement§! media."
  BUL_impending_zveno_coup:0 "[GetZvenoCoupTitle]"
  BUL_impending_zveno_coup_desc:0 "[GetZvenoCoupDesc]"
- BUL_impending_zveno_coup_size_tt:0 "[GetZvenoName] supporters start a civil war. \nZveno military size in the civil war is based on Zveno popularity."
+ BUL_impending_zveno_coup_size_tt:0 "[GetZvenoName] 지지자 시작한다 민간 전쟁\n즈베노 군대 규모 속에서 민간 전쟁은 기반한다 즈베노 지지도."
  BUL_macedonian_revolutionary_organizations:0 "Macedonian Revolutionary Organizations"
  BUL_macedonian_revolutionary_organizations_desc:0 "[GetImroDecisionCategoryDesc]"
  BUL_macedonian_revolutionary_organizations_cooperation_desc:0 "We must seek Macedonian cooperation during a potential Bulgarian occupation in the near future. The IMRO can become the perfect tool to promote Bulgarian sentiment in the region, facilitating the annexation of Macedonia in the long term."
