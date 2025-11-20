@@ -1,0 +1,6 @@
+﻿l_korean:
+ DIVISION_QUEUED:0 "$N$ 분할"
+ DIVISIONS_QUEUED:0 "$N$ 분할"
+ CONVEYOR_EQUIPMENT_NEED:0 "장비 필요하다:"
+ DEPLOYMENT_ADD_TEMPLATE:0 "열차"
+ DEPLOYMENT_LINES_HIT_THE_CAP:0 "우리 훈련 깡통 최소한 $CAP|*H$ 남자들.\n최대 남자의 힘에 의해 모자되어진 들판 속 ($RATIO|H0%$ 의 $INFIELD|*H$. 최소: $MINPOSSIBLE|*H$ 남자들) "

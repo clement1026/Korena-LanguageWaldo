@@ -1,0 +1,7 @@
+﻿l_korean:
+ GRE_small_installment_payment_FRA:0 "[FROM.GetAdjective]에 소규모 빚 재결제 결제"
+ GRE_STABILITY_TOOLTIP:0 "안전성 암내전국해병연맹"
+ GRE_faction_loyal_stability:0 "§G+10%§!"
+ SOV_set_up_puppet_state_in_turkey:0 "새로운 인형 국가를 칠면조에 설정"
+ BUL_impending_zveno_coup_size_tt:0 "[GetZvenoName] 지지자 시작한다 민간 전쟁\n즈베노 군대 규모 속에서 민간 전쟁은 기반한다 즈베노 지지도."
+ BUL_destroy_imro_foreign_cancel_trigger_macedonia:0 "§Y[106.GetName]§!:\n따라오는 것중 하나가 사실이어야한다:\n  아닌 충분히 지배 의한 §Y[ROOT.GetName]§!\n  §Y9개의 보병§!분할을 §Y[106.GetName]§!에 적게 가지다.\n"

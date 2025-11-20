@@ -1,0 +1,9 @@
+﻿l_korean:
+ night:0 "밤"
+ fort:0 "교역 시장"
+ river:0 "다량의 흐름"
+ amphibious:0 "아데노신일인산안녕바이오미국"
+ UNIT_LEADER_NO_LEADER:1 "§R중령이 아님§!"
+ UNIT_LEADER_TRAIT_REQUIRES:0 "§R요구하다 $TRAITNAME|Y$.§!"
+ CLICK_TO_ASSIGN_COMMANDER:0 "§G클릭하여 중령을 선임하다.§!"
+ CLICK_TO_ASSIGN:0 "클릭하여 선임하다"

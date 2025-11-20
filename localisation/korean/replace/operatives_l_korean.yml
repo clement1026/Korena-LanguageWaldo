@@ -1,0 +1,11 @@
+﻿l_korean:
+ INTELLIGENCEAGENCYVIEW_TITLE:0 "지식 기관"
+ SPY_MASTER_STATUS_NONE:1 "현재 없음 §H스파이 대장§!"
+ SPY_MASTER_STATUS_YOU:0 "이다 당신은 스파이 대장"
+ BECOME_SPY_MASTER_BUTTON:0 "되어라 스파이 대장"
+ AGENCY_NAME:0 "지식 기관"
+ upgrade_economy_civilian:0 "경제/민간"
+ OPERATIVE_MISSION_NO_MISSION_TITLE:0 "선임되지 아니한"
+ OPERATIVE_MISSION_NO_MISSION_ACTION:0 "선임되지 아니한"
+ OPERATION_TOKEN_REMOVE:1 "제거하다 $TOKEN|H$ 속에서 $COUNTRY|H$"
+ INTEL_LEDGER:0 "인텔 원장"

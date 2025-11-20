@@ -1,0 +1,9 @@
+﻿l_korean:
+ TRIGGER_IS_OWNED_BY:0 "$COUNTRY|H$에 의해 소유하는"
+ TRIGGER_IS_OWNED_AND_CONTROLLED_BY:0 "$COUNTRY|H$에 의해 소유하고 지배하다"
+ TRIGGER_ANY_COUNTRY_STARTS:0 "아무 시골의"
+ TRIGGER_IS_NOT_IN_CIVIL_WAR:0 "있지 않다 민간 전쟁 속"
+ TRIGGER_ANY_COUNTRY_WITH_CORE_STARTS:0 "아무 시골의 함께 핵심 국가"
+ TRIGGER_IS_IRONMAN:0 "투지만만한 달러 은화 방식 입니다."
+ TRIGGER_IS_NOT_IRONMAN:0 "투지만만한 달러 은화 방식이 아닙니다"
+ TRIGGER_IS_NOT_SUBJECT:2 "배불리 독립적인"

@@ -1,0 +1,11 @@
+﻿l_korean:
+ poland.13.t:0 "[From.GetNameDefCap] 찾다 [faction_invitee_target.GetAdjective] 공동작업"
+ poland.13.d:0 "[From.GetLeader] [Root.GetAdjective] 정부 확장 그리고 초대를 요청하다 향한 [Root.GetFactionName], 인용하는 위대한 작전 이익 [faction_invitee_target.GetAdjective] 동맹 가질 것입니다 침략의 사건에  "
+ poland.13.a:0 "[faction_invitee_target.GetNameDefCap]는 강의의 친구다!"
+ poland.13.b:0 "우리는 신뢰하지 않는다 [faction_invitee_target.GetLeader]."
+ poland.1301.t:0 "[From.From.GetNameDefCap] 찾다 협업"
+ poland.1301.d:0 "이미 [From.GetFactionName]의 회원, [From.From.GetLeader] 찾는다 군사적인 협력 함께 [Root.GetNameDef] 소환하는 위대한 전략적 이익 [From.From.GetAdjective]-[Root.GetAdjective] 동맹은 가질 것입니다 [GER.GetAdjective] 혹은 [SOV.GetAdjective]의 침략 사건 속의."
+ poland.1301.a:0 "강의의!"
+ poland.1301.b:0 "우리는 관심 없는 이거 \"[From.GetFactionName]\"."
+ poland.1302.t:0 "[From.GetNameDefCap] 인정 하지 않ㄷㅏ [faction_invitee_target.GetAdjective] 출입"
+ poland.16.a:0 "강의의!"
